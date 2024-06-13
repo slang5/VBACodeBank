@@ -1,2 +1,2 @@
 # VBACodeBank
-Une collection de fonctions VBA, conçues pour améliorer votre efficacité dans la gestion des données et des processus dans Excel.
+Une collection de fonctions VBA, conçues pour améliorer votre efficacité dans la gestion des données et des processus dans Excel. Chaque fonction est optimisée pour simplifier et accélérer la réalisation de tâches répétitives, vous permettant de maximiser votre productivité et de minimiser les erreurs dans vos feuilles de calcul. Explorez, utilisez et personnalisez ces outils pour transformer votre expérience avec Excel.
