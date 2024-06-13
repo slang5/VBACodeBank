@@ -1,0 +1,21 @@
+Function argmax(matrice):
+    Dim Max As Integer
+    Max = matrice(1)
+    For Each i In matrice
+        If i > Max Then
+            Max = i
+        End If
+        Next i
+    argmax = WorksheetFunction.Match(Max, matrice, 0)
+End Function
+
+Function argmin(matrice):
+    Dim Min As Integer
+    Min = matrice(1)
+    For Each i In matrice
+        If i < Min Then
+            Max = i
+        End If
+        Next i
+    argmin = WorksheetFunction.Match(Min, matrice, 0)
+End Function
