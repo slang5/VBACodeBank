@@ -14,7 +14,7 @@ Function argmin(matrice):
     Min = matrice(1)
     For Each i In matrice
         If i < Min Then
-            Max = i
+            Min = i
         End If
         Next i
     argmin = WorksheetFunction.Match(Min, matrice, 0)
